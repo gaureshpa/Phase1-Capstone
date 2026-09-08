@@ -1,5 +1,5 @@
 {
-  "name": "week4-project",
+  "name": "TypeScript-SPA",
   "version": "1.0.0",
   "description": "A mini SPA built with vanilla JavaScript, client-side routing, reactive state management, reusable components, and localStorage persistence.",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/gaureshpa/Week4-Project/issues"
   },
-  
+
   "homepage": "https://github.com/gaureshpa/Week4-Project#readme",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
