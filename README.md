@@ -1,4 +1,4 @@
-# Single Page Application: Expense Tracker
+# Phase 1 Capstone: Expense Tracker
 
 A mini Single Page Application (SPA) for managing expenses. The project uses client-side routing, reactive state management, reusable components, and localStorage persistence.
 
